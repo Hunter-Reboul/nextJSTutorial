@@ -2,9 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\app",
+    "\\app\\dashboard",
+    "\\app\\dashboard\\invoices",
+    "\\app\\dashboard\\invoices\\[id]",
+    "\\app\\dashboard\\invoices\\[id]\\edit",
     "\\app\\ui",
+    "\\app\\ui\\customers",
+    "\\app\\ui\\invoices",
     "\\public"
   ],
-  "SelectedNode": "\\tsconfig.json",
   "PreviewInSolutionExplorer": false
 }
